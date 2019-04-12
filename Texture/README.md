@@ -8,3 +8,7 @@ The directory "HDRIHeaven" has environment maps downloaded from HDRIHeaven.com. 
 The "textures" 4x4, 4x4bw, gradient, gradient-dip, paintBump, pixl_r_normal, rminus and rplus were painted by Mike Gleicher as simple examples.
 
 The Sky examples, Rock and Metal were found on the web by Young Wu.
++ The rock is from https://3dtextures.me/
++ The metal is from https://docs.unity3d.com/Manual/StandardShaderMaterialParameterNormalMap.html
++ The sphere background is from https://texturify.com/
++ The box background is from http://www.humus.name/index.php?page=Textures
